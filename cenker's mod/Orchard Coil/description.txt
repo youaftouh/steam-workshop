@@ -1,0 +1,3 @@
+A solo arcade game inside cenker's mod. Steer a growing snake through a 20 x 14 orchard, collect apples, and keep clear of the wall and your tail. Every apple raises your score and the pace. Try to beat your session best.
+
+Use the movement controls to steer and Interact to start or restart. In a lobby, each player has their own board.
