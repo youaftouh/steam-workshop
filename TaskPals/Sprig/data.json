@@ -1,0 +1,26 @@
+{
+  "name": "Sprig",
+  "description": "A pocket-sized greenhouse robot with a seedling on its head. Give Sprig a pat and watch it light up.",
+  "visibility": "private",
+  "speed": 4,
+  "scale": 2,
+  "tags": [
+    "pixel art",
+    "robot",
+    "plant"
+  ],
+  "iconLength": 4,
+  "iconSpeed": 0.24,
+  "idleLength": 4,
+  "idleSpeed": 0.24,
+  "walkLength": 4,
+  "walkSpeed": 0.2,
+  "runLength": 4,
+  "runSpeed": 0.13,
+  "petLength": 5,
+  "petSpeed": 0.2,
+  "dragLength": 3,
+  "dragSpeed": 0.18,
+  "fallLength": 4,
+  "fallSpeed": 0.16
+}
